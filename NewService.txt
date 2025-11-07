@@ -1,2 +1,6 @@
 File added to test rebase feature
+<<<<<<< HEAD
 Committed in branch-2 branch
+=======
+Committed in feature1 branch
+>>>>>>> 8a8b314 (testing rebase in feature1)
