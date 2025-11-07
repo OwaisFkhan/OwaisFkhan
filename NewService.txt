@@ -1,0 +1,2 @@
+File added to test rebase feature
+Committed in branch-2 branch
